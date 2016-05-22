@@ -1,4 +1,4 @@
-#Pygen
+#Playgen
 A youtube playlist generator in text file
 
 #Description
